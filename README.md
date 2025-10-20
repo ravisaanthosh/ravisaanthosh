@@ -45,7 +45,7 @@
 - 💡 Time is the silent engineer — it validates what you cannot see immediately
   
   ---
-  
+  ```verilog
   ```module SANTHOSH_R (
     input  logic digital_electronics,
     input  logic verilog_HDL,
@@ -63,7 +63,6 @@
      end
 
 endmodule```
-
 
 ---
 
