@@ -1,9 +1,8 @@
 ### welcome to my git........
-# I’m ==SANTHOSH R==, a Design and Verification Engineer at Silicon Craft.
+# I’m  ==SANTHOSH R== , a Design and Verification Engineer at Silicon Craft.
 
-//summary
-#### Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digital Electronics, Verilog, SystemVerilog, and UVM, along with hands-on experience in RTL design, simulation, and verification. Skilled in developing and debugging UVM-
-#### based testbenches using constraint-randomization techniques to achieve robust functional coverage. Experienced with Linux environments and GVim for efficient coding and workflow, and proficient in maintaining repositories on GitHub. Passionate #### about applying technical expertise to practical chip-design challenges, while continuously learning and adapting to emerging trends in VLSI design and verification.
+
+#### Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digital Electronics, Verilog, SystemVerilog, and UVM, along with hands-on experience in RTL design, simulation, and verification. Skilled in developing and debugging UVM-based testbenches using constraint-randomization techniques to achieve robust functional coverage. Experienced with Linux environments and GVim for efficient coding and workflow, and proficient in maintaining repositories on GitHub. Passionate #### about applying technical expertise to practical chip-design challenges, while continuously learning and adapting to emerging trends in VLSI design and verification.
 
 **Core Skills 👇🏻**
 
