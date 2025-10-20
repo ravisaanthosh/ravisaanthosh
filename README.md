@@ -63,13 +63,9 @@
      end
   endmodule
 
-endmodule```
-
-
-
 ---
 
-** Repositories👇🏻**
+ **Repositories👇🏻**
 - VERILOG HDL (https://github.com/ravisaanthosh/VERILOG)
 - PROTOCOLS (https://github.com/ravisaanthosh/PROTOCOLS)
 - SYSTEM VERILOG (https://github.com/ravisaanthosh/SYSTEM-VERILOG)
