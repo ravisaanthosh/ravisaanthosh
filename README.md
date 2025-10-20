@@ -1,6 +1,6 @@
-#### welcome to my git........
+#### Hi welcome to my git........
 ### I’m  SANTHOSH R , a Design and Verification Engineer at Silicon Craft.
-  #### Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digital Electronics, Verilog, SystemVerilog, and UVM, along with hands-on experience in RTL design, simulation, and verification. Skilled in developing and debugging UVM-based testbenches using constraint-randomization techniques to achieve robust functional coverage. Experienced with Linux environments and GVim for efficient coding and workflow, and proficient in maintaining repositories on GitHub. Passionate #### about applying technical expertise to practical chip-design challenges, while continuously learning and adapting to emerging trends in VLSI design and verification.
+  ###### Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digital Electronics, Verilog, SystemVerilog, and UVM, along with hands-on experience in RTL design, simulation, and verification. Skilled in developing and debugging UVM-based testbenches using constraint-randomization techniques to achieve robust functional coverage. Experienced with Linux environments and GVim for efficient coding and workflow, and proficient in maintaining repositories on GitHub. Passionate #### about applying technical expertise to practical chip-design challenges, while continuously learning and adapting to emerging trends in VLSI design and verification.
   
 ---
 
@@ -69,12 +69,11 @@ endmodule```
 
 ---
 
-** Repositories 👇🏻**
-- [VERILOG HDL.] (https://github.com/ravisaanthosh/VERILOG)
-- [PROTOCOLS.] (https://github.com/ravisaanthosh/PROTOCOLS)
-- [SYSTEM VERILOG.] (https://github.com/ravisaanthosh/SYSTEM-VERILOG)
-// - [UNIVERSAL VERIFICATION METHODOLOGY.]
-- [FPGA-IMPLEMENTATION.] (https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
+** Repositories👇🏻**
+- VERILOG HDL (https://github.com/ravisaanthosh/VERILOG)
+- PROTOCOLS (https://github.com/ravisaanthosh/PROTOCOLS)
+- SYSTEM VERILOG (https://github.com/ravisaanthosh/SYSTEM-VERILOG)
+- FPGA-IMPLEMENTATION (https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
   
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
