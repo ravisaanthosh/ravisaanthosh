@@ -46,7 +46,7 @@
   
   ---
   ```verilog
-  ```module SANTHOSH_R (
+  module SANTHOSH_R (
     input  logic digital_electronics,
     input  logic verilog_HDL,
     input  logic debugging_skills,
@@ -61,6 +61,7 @@
         else
              Design_verification_engineer = 1'b0; // Keep Learning!
      end
+  endmodule
 
 endmodule```
 
