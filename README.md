@@ -36,8 +36,8 @@
 
 ---
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ravisaanthosh?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
-
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ravisaanthosh?cardType=level&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
+ 
 ---
 **Quote I Follow 👇🏻**
 - ⚙️ Trust your own process it's make a time but trust it — every failed simulation brings you one step closer to success.
