@@ -33,17 +33,17 @@
 `::` Universal Verification Methodology  
 `==` Functional & Assertion-Based Verification  
 `->` RTL Coding and Simulation  
-`!` Constrained Random Verification  
-`#` FPGA / ASIC Design Flow  
+`!`  Constrained Random Verification  
+`#`  FPGA / ASIC Design Flow  
 
 ---
 
 ### **Tools I Use**
 `|->` Icarus Verilog  
-`~^` GTKWave  
-`>>` Vivado_2019  
-`<<` QuestaSim  
-`::` EDA Playground  
+`~^`  GTKWave  
+`>>`  Vivado_2019  
+`<<`  QuestaSim  
+`::`  EDA Playground  
 
 ---
 
