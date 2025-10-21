@@ -10,9 +10,11 @@
 ------------------------------------------------------------------------------------------------------
 ### my portfolio....!!!
 => Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
+
 => I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
 
-=> My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
+=> My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**
+
 => where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.
 
 => I believe in the process of **learning by building**, and every failed simulation is just another step toward success.
@@ -21,8 +23,6 @@
 
 => Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
    and helping others learn **VLSI concepts** in a practical way.
-
-
 
 ---
 
@@ -94,8 +94,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=0d1117&color=eff2f5&line=a31eeb&point=f4f5f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
 ### **Connect With Me**
 <a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
+---
 
