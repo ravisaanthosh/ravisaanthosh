@@ -1,5 +1,6 @@
 ## Hi welcome to my git
-![About Me](./assets.gif)
+![About Me Animation](./assets/san.gif)
+
 
 ### **About Me**
 ------------------------------------------------------------------------------------------------------
