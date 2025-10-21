@@ -1,7 +1,6 @@
 ## Hi welcome to my git....<*_*>.....!!!
 ### **About Me**
 <div align="center">
-
 <pre>
 <span style="color:#00FF99;">/*-----------------------------------------------------------</span>
 <span style="color:#00FFFF;">    Engineer   :</span>  <span style="color:#FFD700;">SANTHOSH R</span>
@@ -12,8 +11,9 @@
 <span style="color:#00FFFF;">    Languages  :</span>  <span style="color:#FFD700;">Verilog | SystemVerilog | UVM</span>
 <span style="color:#00FF99;">-----------------------------------------------------------*/</span>
 </pre>
-
 </div>
+
+
 
 ### **Connect With Me**
 <a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
@@ -71,39 +71,35 @@
 
 ---
 
-```verilog
-module SANTHOSH_R (
+  ```verilog
+  module SANTHOSH_R (
     input  logic digital_electronics,
     input  logic verilog_HDL,
     input  logic debugging_skills,
     input  logic patience_and_learning,
     input  logic systemverilog,
     input  logic uvm,
-    output logic Design_verification_engineer
-);
+    output logic Design_verification_engineer );
 
     always_comb begin
-        if (digital_electronics && verilog_HDL && debugging_skills &&
-            patience_and_learning && systemverilog && uvm)
+        if (digital_electronics && verilog_HDL && debugging_skills && patience_and_learning && systemverilog && uvm)
             Design_verification_engineer = 1'b1; // Goal Achieved!
         else
-            Design_verification_engineer = 1'b0; // Keep Learning!
-    end
-endmodule
-
+             Design_verification_engineer = 1'b0; // Keep Learning!
+     end
+  endmodule
+```
 ---
 
 ### **Repositories**
 
-```verilog
-assign VERILOG_HDL          = "https://github.com/ravisaanthosh/VERILOG";
-assign PROTOCOLS            = "https://github.com/ravisaanthosh/PROTOCOLS";
-assign SYSTEM_VERILOG       = "https://github.com/ravisaanthosh/SYSTEM-VERILOG";
-assign FPGA_IMPLEMENTATION  = "https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION";
+[![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-blue?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/VERILOG)
+[![Protocols](https://img.shields.io/badge/Protocols-green?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/PROTOCOLS)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
+[![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=0d1117&color=eff2f5&line=a31eeb&point=f4f5f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
