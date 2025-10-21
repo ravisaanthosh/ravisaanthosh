@@ -1,38 +1,38 @@
 #### Hi welcome to my git........
-### I’m  **SANTHOSH R** , a Design and Verification Engineer @ Silicon Craft.
-Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digital Electronics, Verilog, SystemVerilog, and UVM, along with hands-on experience in RTL design, simulation, and verification. Skilled in developing and debugging UVM-based testbenches using constraint-randomization techniques to achieve robust functional coverage. Experienced with Linux environments and GVim for efficient coding and workflow, and proficient in maintaining repositories on GitHub. Passionate #### about applying technical expertise to practical chip-design challenges, while continuously learning and adapting to emerging trends in VLSI design and verification.
+### I’m  **==SANTHOSH R==** , a Design and Verification Engineer @ Silicon Craft.
+
   
 ---
 
 ### **Core Skills**
 
-- Digital Logic Design
+--> Digital Logic Design
 
-- Verilog HDL
+--> Verilog HDL
 
-- SystemVerilog & UVM
+--> SystemVerilog & UVM
 
-- Functional & Assertion-Based Verification
+--> Functional & Assertion-Based Verification
 
-- RTL Coding and Simulation
+--> RTL Coding and Simulation
 
-- Constrained Random Verification
+--> Constrained Random Verification
 
-- FPGA/ASIC Design Flow
+--> FPGA/ASIC Design Flow
   
 ---
 
 ### **Tools I Use**
 
-- Icarus Verilog
+--> Icarus Verilog
 
-- GTKWave
+--> GTKWave
 
-- Vivado
+--> Vivado
 
-- QuestaSim
+--> QuestaSim
 
-- EDA playground
+--> EDA playground
 
 ---
 
@@ -41,9 +41,9 @@ Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digita
 ---
 ### **Quote I Follow**
 
-- ⚙️ Trust your own process it's make a time but trust it — every failed simulation brings you one step closer to success.
+--> ⚙️ Trust your own process it's make a time but trust it — every failed simulation brings you one step closer to success.
   
-- 💡 Time is the silent engineer — it validates what you cannot see immediately
+--> 💡 Time is the silent engineer — it validates what you cannot see immediately
   
   ---
   ```verilog
@@ -66,12 +66,12 @@ Enthusiastic and detail-oriented VLSI Engineer with a solid foundation in Digita
 
 ---
 
-📂 **Repositories**
+### **Repositories**
 
-- 🔧 [VERILOG HDL](https://github.com/ravisaanthosh/VERILOG)
-- 📡 [PROTOCOLS](https://github.com/ravisaanthosh/PROTOCOLS)
-- 🧩 [SYSTEM VERILOG](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
-- ⚙️ [FPGA IMPLEMENTATION](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
+  [VERILOG HDL](https://github.com/ravisaanthosh/VERILOG)
+  [PROTOCOLS](https://github.com/ravisaanthosh/PROTOCOLS)
+  [SYSTEM VERILOG](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
+  [FPGA IMPLEMENTATION](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
 
   
 ---
