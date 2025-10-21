@@ -1,4 +1,4 @@
-## Hi welcome to my git....<*_*>.....!!!
+## Hi welcome to my git
 ### **About Me**
 ------------------------------------------------------------------------------------------------------
                   Engineer    : SANTHOSH R
@@ -8,11 +8,12 @@
                   Tools Used  : Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground
                   Languages   : Verilog | SystemVerilog | UVM
 ------------------------------------------------------------------------------------------------------
+### my portfolio....!!!
 => Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
-   I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
+=> I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
 
 => My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
-   where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.
+=> where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.
 
 => I believe in the process of **learning by building**, and every failed simulation is just another step toward success.
 
@@ -48,17 +49,16 @@
 `::` EDA Playground  
 
 ---
-### **Repositories**
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ravisaanthosh?cardType=level&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
+
+ ### **Repositories**
 
 [![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-blue?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/VERILOG)
 [![Protocols](https://img.shields.io/badge/Protocols-green?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/PROTOCOLS)
 [![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
 [![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
 
----
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ravisaanthosh?cardType=level&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
- 
 ---
 
 
