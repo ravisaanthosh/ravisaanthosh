@@ -6,7 +6,7 @@
 
 ### **Core Skills**
 
-__> Digital Logic Design
+=> Digital Logic Design
 
 --> Verilog HDL
 
