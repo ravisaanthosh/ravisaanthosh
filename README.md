@@ -8,17 +8,17 @@
 
 => Digital Logic Design
 
---> Verilog HDL
+=== Verilog HDL
 
---> SystemVerilog & UVM
+!== SystemVerilog & UVM
 
---> Functional & Assertion-Based Verification
+== Functional & Assertion-Based Verification
 
---> RTL Coding and Simulation
+!=== RTL Coding and Simulation
 
---> Constrained Random Verification
+|-> Constrained Random Verification
 
---> FPGA/ASIC Design Flow
+-> FPGA/ASIC Design Flow
   
 ---
 
