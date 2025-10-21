@@ -91,7 +91,7 @@
 ```
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=161e2d&color=d8d5d5&line=fb8500&point=f2edf0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=000000&color=d8d5d5&line=fb8500&point=f2edf0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### **Connect With Me**
