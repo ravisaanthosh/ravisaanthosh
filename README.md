@@ -1,26 +1,13 @@
 ## Hi welcome to my git....<*_*>.....!!!
 ### **About Me**
-<div align="center">
-<pre>
-<span style="color:#00FF99;">/*------------------------------------------------------------------------------------</span>
-<span style="color:#00FFFF;">    Engineer   :</span> <span style="color:#FFD700;">SANTHOSH R</span>
-<span style="color:#00FFFF;">    Role       :</span> <span style="color:#FFD700;">Design & Verification Engineer</span>
-<span style="color:#00FFFF;">    Company    :</span> <span style="color:#FFD700;">Silicon Craft</span>
-<span style="color:#00FFFF;">    Description:</span> <span style="color:#FFD700;">Exploring the art of logic design & verification</span>
-<span style="color:#00FFFF;">    Tools Used :</span> <span style="color:#FFD700;">Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground</span>
-<span style="color:#00FFFF;">    Languages  :</span> <span style="color:#FFD700;">Verilog | SystemVerilog | UVM</span>
-<span style="color:#00FF99;">------------------------------------------------------------------------------------*/</span>
-</pre>
-</div>
-
-
-
-### **Connect With Me**
-<a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-
-### **About Me**
-
+------------------------------------------------------------------------------------------------------
+                  Engineer    : SANTHOSH R
+                  Role        : Design & Verification Engineer
+                  Company     : Silicon Craft
+                  Description : Exploring the art of logic design & verification
+                  Tools Used  : Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground
+                  Languages   : Verilog | SystemVerilog | UVM
+------------------------------------------------------------------------------------------------------
 => Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
    I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
 
@@ -61,10 +48,19 @@
 `::` EDA Playground  
 
 ---
+### **Repositories**
+
+[![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-blue?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/VERILOG)
+[![Protocols](https://img.shields.io/badge/Protocols-green?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/PROTOCOLS)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
+[![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
+
+---
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ravisaanthosh?cardType=level&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
  
 ---
+
 
 ### **Quote I Follow**
 
@@ -93,16 +89,13 @@
 ```
 ---
 
-### **Repositories**
 
-[![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-blue?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/VERILOG)
-[![Protocols](https://img.shields.io/badge/Protocols-green?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/PROTOCOLS)
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG)
-[![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=0d1117&color=eff2f5&line=a31eeb&point=f4f5f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+### **Connect With Me**
+<a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
