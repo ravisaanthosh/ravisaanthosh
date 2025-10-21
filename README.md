@@ -19,19 +19,21 @@
 <a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
+### **About Me**
 
-`=>` Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
-    I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA              implementation**.  
+=> Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
+   I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
 
-`=>` My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
-`=>` where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.  
+=> My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
+   where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.
 
-`=>` I believe in the process of **learning by building**, and every failed simulation is just another step            toward success.  
+=> I believe in the process of **learning by building**, and every failed simulation is just another step toward success.
 
-`=>` I’m continuously exploring new verification methodologies and EDA tools to push the limits of my designs.  
+=> I’m continuously exploring new verification methodologies and EDA tools to push the limits of my designs.
 
-`=>` Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
-    and helping others learn **VLSI concepts** in a practical way.
+=> Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
+   and helping others learn **VLSI concepts** in a practical way.
+
 
 
 ---
