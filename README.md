@@ -1,7 +1,4 @@
 ## Hi welcome to my git
-![About Me](./assets/san.gif)
-
-
 ### **About Me**
 ------------------------------------------------------------------------------------------------------
                   Engineer    : SANTHOSH R
@@ -11,7 +8,8 @@
                   Tools Used  : Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground
                   Languages   : Verilog | SystemVerilog | UVM
 ------------------------------------------------------------------------------------------------------
-### my portfolio....!!!
+### My portfolio....!!!
+
 => Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
 
 => I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.
@@ -27,9 +25,7 @@
 => Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,and helping others learn **VLSI concepts** in a practical way.
 
 ---
-
 ### **Core Skills**
-
 `=>` Digital Logic Design  
 `<=` Verilog HDL  
 `&&` Protocols  
@@ -43,7 +39,6 @@
 ---
 
 ### **Tools I Use**
-
 `|->` Icarus Verilog  
 `~^` GTKWave  
 `>>` Vivado_2019  
@@ -62,16 +57,13 @@
 [![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)
 
 ---
-
-
 ### **Quote I Follow**
 
 `//` Trust your own process; it takes time, but trust it — every failed simulation brings you one step closer to success.  
 `//` Time is the silent engineer — it validates what you cannot see immediately.
 
 ---
-
-  ```verilog
+ ```verilog
   module SANTHOSH_R (
     input  logic digital_electronics,
     input  logic verilog_HDL,
@@ -90,14 +82,9 @@
   endmodule
 ```
 ---
-
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=0d1117&color=eff2f5&line=a31eeb&point=f4f5f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 ### **Connect With Me**
 <a href="mailto:ravisanthosh0662@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/santhosh-r-918923209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
