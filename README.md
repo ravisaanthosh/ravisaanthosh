@@ -1,12 +1,12 @@
 #### Hi welcome to my git........
-### I’m  **==SANTHOSH==** , a Design and Verification Engineer @ Silicon Craft.
+### I’m  **SANTHOSH_R** , a Design and Verification Engineer @ Silicon Craft.
 
   
 ---
 
 ### **Core Skills**
 
---> Digital Logic Design
+__> Digital Logic Design
 
 --> Verilog HDL
 
