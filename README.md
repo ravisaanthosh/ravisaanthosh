@@ -1,5 +1,5 @@
 #### Hi welcome to my git........
-### I’m  **==SANTHOSH R==** , a Design and Verification Engineer @ Silicon Craft.
+### I’m  **==SANTHOSH==** , a Design and Verification Engineer @ Silicon Craft.
 
   
 ---
