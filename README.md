@@ -21,8 +21,7 @@
 
 => I’m continuously exploring new verification methodologies and EDA tools to push the limits of my designs.
 
-=> Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
-   and helping others learn **VLSI concepts** in a practical way.
+=> Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,and helping others learn **VLSI concepts** in a practical way.
 
 ---
 
