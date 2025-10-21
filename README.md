@@ -2,14 +2,14 @@
 ### **About Me**
 <div align="center">
 <pre>
-<span style="color:#00FF99;">/*-----------------------------------------------------------</span>
-<span style="color:#00FFFF;">    Engineer   :</span>  <span style="color:#FFD700;">SANTHOSH R</span>
-<span style="color:#00FFFF;">    Role       :</span>  <span style="color:#FFD700;">Design & Verification Engineer</span>
-<span style="color:#00FFFF;">    Company    :</span>  <span style="color:#FFD700;">Silicon Craft</span>
-<span style="color:#00FFFF;">    Description:</span>  <span style="color:#FFD700;">Exploring the art of logic design & verification</span>
-<span style="color:#00FFFF;">    Tools Used :</span>  <span style="color:#FFD700;">Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground</span>
-<span style="color:#00FFFF;">    Languages  :</span>  <span style="color:#FFD700;">Verilog | SystemVerilog | UVM</span>
-<span style="color:#00FF99;">-----------------------------------------------------------*/</span>
+<span style="color:#00FF99;">/*------------------------------------------------------------------------------------</span>
+<span style="color:#00FFFF;">    Engineer   :</span> <span style="color:#FFD700;">SANTHOSH R</span>
+<span style="color:#00FFFF;">    Role       :</span> <span style="color:#FFD700;">Design & Verification Engineer</span>
+<span style="color:#00FFFF;">    Company    :</span> <span style="color:#FFD700;">Silicon Craft</span>
+<span style="color:#00FFFF;">    Description:</span> <span style="color:#FFD700;">Exploring the art of logic design & verification</span>
+<span style="color:#00FFFF;">    Tools Used :</span> <span style="color:#FFD700;">Icarus Verilog | QuestaSim | Vivado | GTKWave | EDA Playground</span>
+<span style="color:#00FFFF;">    Languages  :</span> <span style="color:#FFD700;">Verilog | SystemVerilog | UVM</span>
+<span style="color:#00FF99;">------------------------------------------------------------------------------------*/</span>
 </pre>
 </div>
 
@@ -21,17 +21,17 @@
 
 
 `=>` Hey there! I’m **SANTHOSH R**, a passionate **Design & Verification Engineer** at *Silicon Craft*.  
-  I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA implementation**.  
+    I love turning digital logic into real hardware through **RTL Design**, **Verification**, and **FPGA              implementation**.  
 
-`&&` My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
-  where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.  
+`=>` My core interests revolve around **Digital Electronics**, **SystemVerilog**, and **UVM-based Verification**,  
+`=>` where I enjoy building robust testbenches, debugging simulations, and improving functional coverage.  
 
-`!` I believe in the process of **learning by building**, and every failed simulation is just another step toward success.  
+`=>` I believe in the process of **learning by building**, and every failed simulation is just another step            toward success.  
 
-`||` I’m continuously exploring new verification methodologies and EDA tools to push the limits of my designs.  
+`=>` I’m continuously exploring new verification methodologies and EDA tools to push the limits of my designs.  
 
-`#` Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
-  and helping others learn **VLSI concepts** in a practical way.
+`=>` Beyond work, I enjoy creating structured notes, maintaining GitHub repositories,  
+    and helping others learn **VLSI concepts** in a practical way.
 
 
 ---
