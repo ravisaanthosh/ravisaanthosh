@@ -37,7 +37,7 @@
 `==` Functional & Assertion-Based Verification  
 `->` RTL Coding and Simulation  
 `!`  Constrained Random Verification  
-`#`  FPGA / ASIC Design Flow  
+`#`  ASIC/FPGA Design Flow  
 
 ---
 
