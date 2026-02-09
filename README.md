@@ -63,9 +63,10 @@
 ### **Repositories**
 [![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-blue?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/VERILOG)  
 [![Protocols](https://img.shields.io/badge/Protocols-green?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/PROTOCOLS)  
-[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG) 
-[![UVM](https://img.shields.io/badge/UVM-Verification-purple?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/UNIVERSAL-VERIFICATION-METHODOLOGY-UVM)
+[![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/SYSTEM-VERILOG)  
+[![UVM](https://img.shields.io/badge/UVM-Verification-purple?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/UNIVERSAL-VERIFICATION-METHODOLOGY-UVM)  
 [![FPGA Implementation](https://img.shields.io/badge/FPGA_Implementation-orange?style=for-the-badge&logo=github)](https://github.com/ravisaanthosh/FPGA-IMPLEMENTATION)  
+
 
 
 ---
