@@ -1,6 +1,7 @@
 ## Hi welcome to my git
 ![snake gif](https://github.com/ravisaanthosh/ravisaanthosh/blob/output/github-snake-dark.svg)
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpeGVhZ2lwYWxtc29leDhyOWIwNGZkeWV5ZGhmbG5uaDU3dDRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Banner Image" style="width:100%;">
+</div>
+
 
 
 ### **About Me**
