@@ -1,10 +1,4 @@
 ## Hi welcome to my git
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravisaanthosh/ravisaanthosh/output/github-snake-dark.svg" />
-</p>
-
-
-
 
 ### **About Me**
 ------------------------------------------------------------------------------------------------------
@@ -98,6 +92,10 @@
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravisaanthosh&bg_color=000000&color=d8d5d5&line=fb8500&point=f2edf0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravisaanthosh/ravisaanthosh/output/github-snake-dark.svg" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravisaanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
