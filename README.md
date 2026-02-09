@@ -1,6 +1,7 @@
 ## Hi welcome to my git
-![snake gif](https://github.com/ravisaanthosh/ravisaanthosh/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravisaanthosh/ravisaanthosh/output/github-snake-dark.svg" />
+</p>
 
 
 
