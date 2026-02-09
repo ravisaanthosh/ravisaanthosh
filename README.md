@@ -36,6 +36,7 @@
 `->` RTL Coding and Simulation  
 `!`  Constrained Random Verification  
 `#`  ASIC/FPGA Design Flow  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravisaanthosh/ravisaanthosh/output/github-snake-dark.svg" />
 </p>
@@ -102,6 +103,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravisaanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+## ⏱️ Time Spent on Various Programming Languages
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ---
