@@ -1,5 +1,8 @@
 ## Hi welcome to my git
-[![Generate Snake](https://github.com/ravisaanthosh/ravisaanthosh/actions/workflows/snake.yml/badge.svg)](https://github.com/ravisaanthosh/ravisaanthosh/actions/workflows/snake.yml)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravisaanthosh/ravisaanthosh/output/github-snake-dark.svg" />
+</p>
+
 
 
 
