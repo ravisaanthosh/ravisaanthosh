@@ -104,19 +104,7 @@
   <img src="https://komarev.com/ghpvc/?username=ravisaanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## ⏱️ Time Spent on Various Programming Languages
 
-<!--START_SECTION:waka-->
-
-```TypeScript
-From: 10 January 2026 - To: 09 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
 
